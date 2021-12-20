@@ -36,7 +36,7 @@ The project is comprised of the following types of subgroups:
 * Committees
 * User Groups
 
-![Kubernetes Governance Diagram](https://github.com/kubernetes/community/blob/master/kubernetes_governance_diagram.png)
+![Kubernetes Governance Diagram](kubernetes_governance_diagram.png)
 
 ## SIGs
 
@@ -212,7 +212,7 @@ All contributors must sign the CNCF CLA, as described [here](CLA.md).
 [sigs.yaml]: /sigs.yaml
 [SIG Lifecycle]: /sig-wg-lifecycle.md
 [We have them!]: /values.md
-
+[Kubernetes code of conduct]: /code-of-conduct.md
 [design principles]: /contributors/design-proposals/architecture/principles.md
 [scope]: https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/
 [community members]: /community-membership.md
@@ -226,13 +226,3 @@ All contributors must sign the CNCF CLA, as described [here](CLA.md).
 [Annual Report]: /committee-steering/governance/annual-reports.md
 [monthly community meeting]: /events/community-meeting.md
 [KEP process]: https://github.com/kubernetes/enhancements/tree/master/keps#kubernetes-enhancement-proposals-keps
-
-
-<!-- new -->
-
-[KubCom]: https://github.com/kubernetes/community/blob/master/governance.md
-[Open Services Group code of conduct]: /code-of-conduct.md
-
-<!-- replaced/delete? -->
-
-[Kubernetes code of conduct]: /code-of-conduct.md
